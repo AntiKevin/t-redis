@@ -5,7 +5,6 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/antikevin/t-redis?style=for-the-badge)
 ![Golang](https://img.shields.io/badge/Language-Go-blue?style=for-the-badge&logo=go)
-![GitHub](https://img.shields.io/github/license/antikevin/t-redis?style=for-the-badge)
 
 
 
