@@ -5,8 +5,6 @@ import (
 	"io"
 	"net"
 	"os"
-
-	"github.com/antikevin/t-redis/resp"
 )
 
 func main() {
@@ -30,8 +28,6 @@ func main() {
 
 	for {
 		buf := make([]byte, 1024)
-
-		resp.Deserializer()
 
 		// read message from client
 		message, err := conn.Read(buf)
